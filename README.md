@@ -12,22 +12,14 @@ Ubuntu only
 
 You will be prompted for:
 
-Domain or server IP
-
-Database password
-
-Admin email address
+1. Domain or server IP
+2. Database password
+3. Admin email address <---- Optional
 
 
 Enable Wings:
 
 sudo systemctl enable --now wings
-
-
-Warning
-
-This script makes system-level changes.
-It is recommended to run it on a fresh Ubuntu server.
 
 License
 
