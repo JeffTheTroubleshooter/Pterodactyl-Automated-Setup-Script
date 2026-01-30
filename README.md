@@ -36,7 +36,7 @@ sudo systemctl enable --now wings
 
 ## Video Guide
 
-A full walkthrough and demonstration of this script is available on YouTube:
+A full walkthrough and demonstration of this script is available on My YouTube Channel:
 
 ▶️ https://youtu.be/ngzIf1GsHWo
 
